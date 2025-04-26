@@ -50,3 +50,5 @@ Load the R script into RStudio or another R environment.
 Ensure the Excel file is available or adjust the path to match your system.
 
 Run all code sections sequentially to reproduce the visualizations and model.
+![Top 10 Unemployment](Top10.png)
+![Unemployment Trend](Trend.png)
